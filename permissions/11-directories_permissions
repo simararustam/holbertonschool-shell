@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R 111 /root
+sudo chmod -R 111 ./dir*
