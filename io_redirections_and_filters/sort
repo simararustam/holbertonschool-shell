@@ -1,0 +1,23 @@
+total 68
+-rwxr-xr-x 1 root root   32 Feb 14 02:01 0-hello_world
+-rwxr-xr-x 1 root root   28 Feb 15 04:08 10-no_more_js
+-rwxr-xr-x 1 root root   44 Feb 15 05:06 11-directories
+-rwxr-xr-x 1 root root    0 Feb 15 05:13 12-newest_files
+-rwxr-xr-x 1 root root   30 Feb 15 03:01 1-confused_smiley
+-rwxr-xr-x 1 root root   28 Feb 15 00:53 2-hellofile
+-rwxr-xr-x 1 root root   39 Feb 15 00:54 3-twofiles
+-rwxr-xr-x 1 root root   35 Feb 15 00:56 4-lastlines
+-rwxr-xr-x 1 root root   29 Feb 15 01:01 5-firstlines
+-rwxr-xr-x 1 root root   40 Feb 15 01:59 6-third_line
+-rwxr-xr-x 1 root root   76 Feb 15 02:55 7-file
+-rwxr-xr-x 1 root root   36 Feb 15 03:11 8-cwd_state
+-rwxr-xr-x 1 root root   39 Feb 15 03:16 9-duplicate_last_line
+-rw-r--r-- 1 root root    0 Feb 15 05:28 file
+-rwxr-xr-x 1 root root   54 Feb 14 02:06 git
+-rw-r--r-- 1 root root  857 Feb 15 03:16 iacta
+-rw-r--r-- 1 root root 1222 Feb 15 03:11 ls_cwd_content
+-rw-r--r-- 1 root root   50 Feb 15 00:01 README.md
+drwxr-xr-x 2 root root    6 Feb 15 05:07 simara
+-rw-r--r-- 1 root root    0 Feb 15 05:28 sort
+drwxr-xr-x 2 root root    6 Feb 15 04:52 testa
+-rw-r--r-- 1 root root   24 Feb 15 01:55 testt
