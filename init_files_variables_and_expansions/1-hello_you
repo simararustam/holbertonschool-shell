@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv "hello $USER"
+printf "hello $USER"
